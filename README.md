@@ -1,2 +1,2 @@
-# Chitchat
+# ChatBot
 # Simple Assistant Chat-Bot 
